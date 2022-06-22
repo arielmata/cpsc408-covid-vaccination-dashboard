@@ -1,6 +1,6 @@
 # COVID Vacccination Progress Dashboard for California
 
-An application developed in Python with a MySQL database to display statistics on the Covid Vaccination Progress for California
+An application developed in Python with a MySQL database to display statistics on the Covid Vaccination Progress for California.
 
 ## Identifying Information
 * Name: Ariel Gutierrez
